@@ -1,0 +1,15 @@
+public class relationalOperator {
+
+public static void main(String[] args) {
+
+int a = 45; int b = 40;
+
+
+
+    System.out.println(a==b);
+} 
+
+
+
+
+}
